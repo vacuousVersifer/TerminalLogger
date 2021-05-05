@@ -1,0 +1,15 @@
+{
+  "name": "@vacuousversifer/logger",
+  "version": "1.0.0",
+  "description": "A small sqlite database for my logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vacuousVersifer",
+  "license": "MIT",
+  "dependencies": {
+    "sequelize": "^6.6.2",
+    "sqlite3": "^5.0.2"
+  }
+}
